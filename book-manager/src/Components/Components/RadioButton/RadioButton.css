@@ -1,0 +1,8 @@
+.RadioGroup {
+  display: flex;
+  flex-direction: row;
+}
+
+.Radio {
+  padding: 1px
+}
