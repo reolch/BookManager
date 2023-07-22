@@ -2,8 +2,8 @@ import { Button, TextField, Typography } from '@mui/material';
 import { Box } from '@mui/system';
 import React, { FC } from 'react';
 
-import { LoginInfo } from '../../ Common/Types';
-import handleLogin from '../../ Common/LoginService';
+import { LoginInfo } from '../../Common/Types';
+import handleLogin from '../../Common/LoginService';
 
 export const Login: FC = () => {
   // ログイン情報
