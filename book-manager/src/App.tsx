@@ -1,6 +1,4 @@
-import React from "react";
 import "./App.css";
-import { Sample } from "./Pages/Sample/Sample";
 import { Login } from "./Pages/Login/Login";
 
 function App() {
