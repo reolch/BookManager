@@ -12,5 +12,5 @@ const firebaseConfig = {
 
 // Firebaseアプリの初期化
 const app = initializeApp(firebaseConfig);
-const auth = getAuth(app);
-export default auth;
+const FirebaseAuthentication = getAuth(app);
+export default FirebaseAuthentication;
