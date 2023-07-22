@@ -1,0 +1,13 @@
+●ESLint,Prettierのプラグインについて
+　VSCodeで開発する場合、「Prettier ESLint」という名前の拡張機能を追加してください。
+　そのほかのエディターの設定は分からないので、自分で調べてください（）
+●ESLintについて
+　JavaScriptおよびTypeScrtiptの静的解析ツールです。
+　入れておくと単純な構文エラーを防ぐことが出来ます。
+
+●Prettierについて
+　フォーマッターです。
+　設定ファイルはプロジェクトフォルダ直下の「.prettierrc」ファイルで
+　変更することが出来ます。
+　詳しい設定方法は下記Webサイトを参照。
+　https://qiita.com/takeshisakuma/items/bbb2cd2f1c65de70e363
